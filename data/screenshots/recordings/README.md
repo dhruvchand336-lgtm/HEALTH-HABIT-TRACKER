@@ -1,30 +1,25 @@
-# Health Habit Tracker
+Health Habit Tracker
 
-## Introduction
-I created this simple Health Habit Tracker to help myself and others keep track of daily habits like drinking enough water, getting proper sleep, walking steps, and exercising. Every day, I log my habits, and the app gives a weekly summary so I can see my progress and stay motivated.
+Introduction
 
-## Features
-- Log daily habits for water, sleep, steps, and exercise.
-- Automatically stores all data in a file.
-- View weekly averages to track progress.
-- Simple and beginner-friendly terminal interface.
+This Health Habit Tracker is a simple Python program created to help track daily health habits like drinking water, sleeping on time, walking steps, and doing exercise. Every day, the user enters their habits, and the program automatically saves the data and also shows a weekly average so the user can monitor progress easily.
 
-## How to Run
-1. Make sure Python is installed on your system.
-2. Open the project folder.
-3. Run the script in the terminal:
-4. Follow the on-screen instructions and enter your daily habits.
+Features
+	•	Logs daily habits for water, sleep, steps, and exercise.
+	•	Automatically stores each day’s data.
+	•	Calculates weekly averages for the last 7 days.
+	•	Shows progress in a clean and easy-to-read format.
+	•	Beginner-friendly Python code based on syllabus concepts.
 
-## Project Structure
-- `main.py` → Main program.
-- `data/habits.json` → Stores habit data.
-- `screenshots/` → Images showing your project running.
-- `recordings/` → Optional demo video.
+How to Run
+	1.	Make sure Python is installed on your system.
+	2.	Download or clone the project folder.
+	3.	Open the terminal in the project directory.
+	4.	Run the program with:
+  Screenshots
 
-## Screenshots
-You can add screenshots like your terminal input, saved data, and weekly summary here.  
-For example:
-![Screenshot](/mnt/data/WhatsApp Image 2025-11-23 at 2.05.58 PM.jpeg)
+Below is an example structure you can add (like your screenshot):
 
-## Conclusion
-This project made it easy for me to understand my daily routine. Logging habits daily motivates me to stay consistent and improve my health gradually.
+Conclusion
+
+This project helped me understand Python basics like input handling, loops, dictionaries, and simple calculations. Tracking daily habits through this program motivates consistent improvement in health and makes the learning experience more practical and fun.
